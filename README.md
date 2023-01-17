@@ -1,6 +1,5 @@
 # Dance-School-Management-System
 <br>Name: Vibha Murthy
-<br>SRN: PES1UG20CS495
 
 <br>Steps to run:
 <br>1. Create a new database 
